@@ -8,9 +8,9 @@ I believe blockchain will bring more transparency and innovation to industries l
 ---
 
 ## 👨‍💻 Developer Interests
-- **JavaScript**: algorithms and web development (HTML, CSS)  
 - **Python**: automation and engineering problem-solving  
-- **VB.NET**: building desktop tools for daily tasks  
+- **VB.NET**: building desktop tools for daily tasks
+- **JavaScript**: algorithms and web development (HTML, CSS) 
 - **Solidity**: smart contracts on Ethereum  
 - Exploring DAOs and decentralized apps  
 
