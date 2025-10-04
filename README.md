@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bruno Pancotto
 
 I'm an **Electrical Engineer**, now expanding my career into software development.  
-In my daily work as an engineer, I’ve found that programming helps me solve practical problems — from calculations to automation — and that motivated me to dive deeper into coding.  
+In my daily work as an engineer, I’ve found that programming helps me solve practical problems and that motivated me to dive deeper into coding.  
 
-I’m currently learning **JavaScript, Python, VB.NET and Solidity**, with a strong interest in Web3.  
+I’m currently learning **Python, VB.NET, JavaScript and Solidity**, with a strong interest in Web3.  
 I believe blockchain will bring more transparency and innovation to industries like energy, finance and beyond, and I want to combine my engineering background with decentralized technologies to build secure and useful solutions.  
 
 ---
