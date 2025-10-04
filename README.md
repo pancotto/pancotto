@@ -1,30 +1,38 @@
-# 👋 Olá, eu sou Bruno Pancotto
+# 👋 Hi, I'm Bruno Pancotto
 
-⚡ Engenheiro Eletricista | 💻 Dev em formação | 🌐 Explorando Web3 & Solidity | 🐍 Estudando Python
+I'm an **Electrical Engineer** from Brazil, now expanding my career into software development.  
+In my daily work as an engineer, I’ve found that programming helps me solve practical problems — from calculations to automation — and that motivated me to dive deeper into coding.  
 
----
-
-## 🚀 Projetos em destaque
-- [Palindrome Checker](https://github.com/pancotto/palindrome-checker)  
-  *Verificador de palíndromos em JavaScript (FreeCodeCamp)*  
-  👉 [Demo Online](https://pancotto.github.io/palindrome-checker/)
-
-- [Gradebook App](https://github.com/pancotto/gradebook-app)  
-  *Mini aplicativo de cálculo de médias e notas em JS (FreeCodeCamp)*
+I’m currently learning **JavaScript, Python, VB.NET and Solidity**, with a strong interest in Web3.  
+I believe blockchain will bring more transparency and innovation to industries like energy, finance and beyond, and I want to combine my engineering background with decentralized technologies to build secure and useful solutions.  
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 Developer Interests
+- **JavaScript**: algorithms and web development (HTML, CSS)  
+- **Python**: automation and engineering problem-solving  
+- **VB.NET**: building desktop tools for daily tasks  
+- **Solidity**: smart contracts on Ethereum  
+- Exploring DAOs and decentralized apps  
 
 ---
 
-## 📫 Onde me encontrar
-- FreeCodeCamp: [@pancotto](https://www.freecodecamp.org/pancotto)  
-- GitHub: [pancotto](https://github.com/pancotto)  
+## 🎯 Goals in Web3
+- Write and deploy **smart contracts**  
+- Learn to manage assets securely with **Multi-Sig wallets**  
+- Apply my **engineering mindset** to decentralized solutions  
+- Contribute to real blockchain projects  
+
+---
+
+## 🎵 & 🏀 Life beyond technology
+Outside of work and coding, I enjoy:  
+- Training at the **gym** 💪  
+- **Cycling**, **basketball** and **tennis**  
+- Playing **guitar** and listening to **rock music** 🎸  
+
+Sports teach me discipline and balance, while music brings creativity — both qualities that help me in my journey as a developer.  
+
+---
+
+⚡ *Always learning, solving problems, and open to collaborate on Web3 projects!*
