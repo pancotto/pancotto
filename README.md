@@ -24,13 +24,13 @@ I believe blockchain will bring more transparency and innovation to industries l
 
 ---
 
-## 🎵 & 🏀 Life beyond technology
+## 💪 Life beyond technology
 Outside of work and coding, I enjoy:  
-- Training at the **gym** 💪  
-- **Cycling**, **basketball** and **tennis**  
-- Playing **guitar** and listening to **rock music** 🎸  
+- Training at the **gym** 
+- **Cycling**, **basketball** and **tennis**
+- Playing **guitar** and listening to **rock music**
 
-Sports teach me discipline and balance, while music brings creativity — both qualities that help me in my journey as a developer.  
+Sports teach me discipline and balance, while music brings creativity — both qualities that help me in my journey as a engineer and developer.  
 
 ---
 
