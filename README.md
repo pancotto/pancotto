@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bruno Pancotto
 
-I'm an **Electrical Engineer** from Brazil, now expanding my career into software development.  
+I'm an **Electrical Engineer**, now expanding my career into software development.  
 In my daily work as an engineer, I’ve found that programming helps me solve practical problems — from calculations to automation — and that motivated me to dive deeper into coding.  
 
 I’m currently learning **JavaScript, Python, VB.NET and Solidity**, with a strong interest in Web3.  
